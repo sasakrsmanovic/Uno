@@ -43,6 +43,7 @@
 * Add `PasswordVault` on supported platfrosm
 * 152504 [Android] Pointer captures weren't informing gestures of capture, fixes Slider capture issue
 * [Android] Updated support libraries to 28.0.0.1 for Android 9
+* 132984 [Android] Notch support on Android
 
 ### Breaking Changes
 * The `WebAssemblyRuntime.InvokeJSUnmarshalled` method with three parameters has been removed.
