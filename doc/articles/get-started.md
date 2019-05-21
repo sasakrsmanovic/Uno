@@ -53,6 +53,8 @@ See the [Creating an App tutorial](getting-started-tutorial-1.md) for a step-by-
 
 * For code samples, check out the [Uno Gallery and Playground](https://github.com/nventive/Uno.Playground) repository.
 
+* For step-by-step tutorial on creating your first Uno Platform-powered app, please check out [this tutorial.](https://platform.uno/docs/articles/getting-started-tutorial-1.html)
+
 * The Uno Platform promotes a 'UWP-first' development approach. Microsoft's [documentation](https://docs.microsoft.com/en-us/windows/uwp/develop/) on the UWP framework is an essential resource.
 
 * For Uno-specific information, consult the docs here, including a list of [supported features](supported-features.md) and [general development tips](using-uno-ui.md).
